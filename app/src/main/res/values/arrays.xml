@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Estados">
+        <item>CDMX</item>
+        <item>Aguascalientes</item>
+        <item>Oaxaca</item>
+        <item>Guanajuato</item>
+        <item>EDO MEX</item>
+        <item>Puebla</item>
+
+
+
+
+    </string-array>
+
+</resources>
